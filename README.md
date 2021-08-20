@@ -1,7 +1,7 @@
 # ScannerC19
 This unofficial software allows you to scan QR codes and extract information from the JSON contained within it. This is an unofficial app, made for pure study. 
 ### Dependencies
-Questo software contiene dipendenze di [VerificaC19](https://github.com/ministero-salute/it-dgc-verificaC19-android) - Java / Kotlin .
+This software contains dependencies of [VerificaC19](https://github.com/ministero-salute/it-dgc-verificaC19-android) - Java / Kotlin .
 So please use the correct installation by them. Another project dependency is [dgc-java](https://github.com/DIGGSweden/dgc-java), whose [object and method documentation](https://diggsweden.github.io/dgc-java/javadoc/dgc-create-validate/se/digg/dgc/encoding/package-use.html).
 
 ## Decoding QR Codes
